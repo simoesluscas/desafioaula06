@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Receita </title>
+    </head>
+    <body>
+    <span> Receita de miojo</span>
+<br>
+    INGREDIENTES
+    <ul>
+        <li>Miojo</li> 
+        <li>Agua</li>     
+
+    </ul>
+    <br>
+MODO DE PREPARO
+<ol>
+    <li> Ferva agua </li>
+    <li> Despeje o miojo</li>
+    <li> Ponha o tempero</li>
+</ol>
+
+<table border="1">
+    <tr>
+        <th>Frutas</hd>
+        <th> Verduras</th>
+        <th> Legumes</th>
+        </tr>
+
+
+<tr>
+<td>Maça</td>
+<td> Alface</td>
+<td> Amendoim</td>
+</tr>
+
+<tr>
+    <td>Laranja</td>
+    <td> Couve</td>
+    <td> Trigo</td>
+    </tr>
+
+</table>
+
+    </body>
+
+
+</html>
