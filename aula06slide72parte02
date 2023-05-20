@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <header>Lucas Simoes, 21/01/94, analista de fraude</header>
+    <br>
+    <body>
+    <section>
+        <span> Receita de miojo</span>
+        <br>
+            INGREDIENTES
+            <ul>
+                <li>Miojo</li> 
+                <li>Agua</li>     
+        
+            </ul>
+            <br>
+        MODO DE PREPARO
+        <ol>
+            <li> Ferva agua </li>
+            <li> Despeje o miojo</li>
+            <li> Ponha o tempero</li>
+        </ol>
+    </section>
+    <section>
+        <table border="1">
+            <tr>
+                <th>Produto</hd>
+                <th> Preço unitario</th>
+                <th> Quantidade em estoque</th>
+                </tr>
+        
+        
+        <tr>
+        <td>HD SATA 80 GB</td>
+        <td>R$ 85,00</td>
+        <td>35</td>
+        </tr>
+        
+        <tr>
+            <td>Pen Drive 2 GB</td>
+            <td>R$ 15,00</td>
+            <td>150</td>
+            </tr>
+        
+            <tr>
+                <td>Impressora Laser Colorida</td>
+                <td>R$ 613,99</td>
+                <td>18</td>
+                </tr>
+
+                <tr>
+                    <td>Monitor LCD 17’</td>
+                    <td>R$ 309,00</td>
+                    <td>41</td>
+                    </tr>
+        </table>
+
+    </section>
+    <br>
+    <article>
+        <a href="https://www.estadao.com.br/economia/como-e-dormir-em-um-hotel-capsula-no-japao-veja-video/">
+            <img src="japao.jpg" alt="japao"/>
+        </a>
+    </article>
+        
+   </body>
+<br>
+<footer>Email: simoeslucas@hotmail.com, Tel.: 11967071982</footer>
+
+</html>
