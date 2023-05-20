@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Formulário </title>
+    </head>
+    <body>
+        <div>Informações pessoais</div>
+        <br>
+    <form id="formulario">
+        <label for="genero"> Gênero</label>
+        <br>
+        <input type="radio" name="genero" id="genero" value="Masculino"> Masculino
+        <input type="radio" name="genero" id="genero" value="Feminino"> Feminino
+        <input type="radio" name="genero" id="genero" value="Outro"> Outro
+        <br>
+        <label for="nome"> Nome:</label>
+        <input type= “text” name= “nome” id="nome">
+        <br>
+        <label for="sobrenome"> Sobrenome:</label>
+        <input type= “text” name= “sobrenome” id="sobrenome">
+        <br>
+        <label for="tamanho"> Tamanho</label>
+        <select name="tamanho" id="tamanho">
+            <option value="pequeno"> Pequeno</option>
+            <option value="medio"> Medio</option>
+            <option value="grande"> Grande</option>
+        </select>
+    </form>
+        <br><br>
+        <input type="button" value="Enviar">
+        <br>
+        <a href="https://plataforma.coderhouse.com/cursos">Coder House</a>
+        <br>
+        <img src="coder.png" alt="coder"/> 
+        <br>
+        <iframe width="640" height="360" src="https://www.youtube.com/embed/upbjHe-hWGs" title="¿Cómo conseguir tu primer trabajo IT? 🤔" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+    </body>
+
+
+</html>
